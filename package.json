@@ -1,0 +1,12 @@
+{
+  "name": "3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab3.js",
+  "scripts": {
+    "start": "node lab3.js"
+  },
+  "keywords": [],
+  "author": "Dmytro Kuts",
+  "license": "ISC"
+}
